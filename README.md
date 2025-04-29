@@ -1,2 +1,1 @@
-# vetor_img
-Esse repositório possui funções úteis para a manipulação de vetores e criação de imagens.
+<a href="https://www.w3schools.com/html/">Veja meu artigo no linkedin</a> // ainda não postado
