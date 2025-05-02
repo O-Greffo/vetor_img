@@ -1,5 +1,5 @@
 Esse projeto possui funções úteis para a manipulação de vetores e criação de imagens.
-<a href="https://www.w3schools.com/html/">Veja meu artigo no linkedin</a> Nele, a lógica por trás desse código é descrita em maior detalhe.
+<a href="https://www.linkedin.com/pulse/aprenda-como-programar-vetores-manipulando-imagens-por-daniel-greff-0spsf">Veja meu artigo no linkedin</a> Nele, a lógica por trás desse código é descrita em maior detalhe.
 ## Manual do usuário:
 
 #### O exemplo dentro de Fn main():
